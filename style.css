@@ -1,0 +1,15 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-color: turquoise;
+    margin: 20px
+}
+
+canvas{
+    background-color: white;
+    border: 5px solid black;
+    border-radius: 5%;
+    cursor: move;
+}
